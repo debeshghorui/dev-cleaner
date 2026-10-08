@@ -1,3 +1,4 @@
 /target
+/test-workspace
 **/*.rs.bk
 .DS_Store
